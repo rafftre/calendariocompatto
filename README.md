@@ -14,7 +14,7 @@ Traduzione e adattamento in italiano del calendario compatto di David Seah ([dav
 ## Riferimenti
 
 - [The Compact Calendar](https://davidseah.com/node/compact-calendar/)
-- [Festivit‡ e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
+- [Festivit√† e giornate nazionali](https://presidenza.governo.it/ufficio_cerimoniale/cerimoniale/giornate.html)
 
 
 [//]: # (assets)
