@@ -19,5 +19,5 @@ Traduzione e adattamento in italiano del calendario compatto di David Seah ([dav
 
 [//]: # (assets)
 
-  [cal12m]: <https://github.com/rafftre/calendariocompatto/releases/latest/download/CalendarioCompatto2024.pdf>
-  [cal18m]: <https://github.com/rafftre/calendariocompatto/releases/latest/download/CalendarioCompatto2024-18mesi.pdf>
+  [cal12m]: <https://github.com/rafftre/calendariocompatto/releases/latest/download/CalendarioCompatto.pdf>
+  [cal18m]: <https://github.com/rafftre/calendariocompatto/releases/latest/download/CalendarioCompatto-18mesi.pdf>
